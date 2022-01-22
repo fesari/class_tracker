@@ -1,4 +1,4 @@
-# gowan-brae_database
+# class_tracker
 
 Our local school, Gowan Brae Public School, has asked us to produce a
 program, written in Python, which performs the following tasks:
